@@ -5,7 +5,8 @@ Setiap step saya kerjakan secara bertahap, mulai dari HTML, CSS, JavaScript, hin
 
 ## 📅 Progress Harian
 - **Day 1**: Membuat halaman HTML pertama (`Hello World`)  
-- **Day 2**: (coming soon)
+- **Day 2**: Membuat halaman About Me dengan list (ordered & unordered)
+- **Day 3**: (coming soon)
 
 ## 🎯 Tujuan
 - Membiasakan diri ngoding setiap hari  
