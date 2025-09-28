@@ -1,6 +1,6 @@
-![Progress](https://img.shields.io/badge/Progress-5%2F30-blue)
+![Progress](https://img.shields.io/badge/Progress-6%2F30-blue)
 ![HTML](https://img.shields.io/badge/HTML-5%2F5-orange)
-![CSS](https://img.shields.io/badge/CSS-1%2F10-blueviolet)
+![CSS](https://img.shields.io/badge/CSS-2%2F10-blueviolet)
 ![Status](https://img.shields.io/badge/Learning-Active-brightgreen)
 
 # Learn Web Development
@@ -14,9 +14,10 @@ Setiap step saya kerjakan secara bertahap, mulai dari HTML, CSS, JavaScript, hin
 - *Day 3*: Menambahkan gambar, tabel, dan form sederhana
 - *Day 4*: Membuat struktur layout dasar (header, nav, main, footer)
 - *Day 5*: Belajar dasar CSS (warna, font, tombol, layout sederhana)
-- *Day 6*: (coming soon)
+- *Day 6*: Belajar CSS Layout & Flexbox
+- *Day 7*: (coming soon)
 
 ## 🎯 Tujuan
 - Membiasakan diri ngoding setiap hari  
 - Membangun portfolio belajar di GitHub  
-- Mencapai level full-stack developer step by step
+- Mencapai level full-stack developer step by step
