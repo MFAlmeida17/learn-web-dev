@@ -13,7 +13,7 @@ Setiap step saya kerjakan secara bertahap, mulai dari HTML, CSS, JavaScript, hin
 - *Day 2*: Membuat halaman About Me dengan list (ordered & unordered)
 - *Day 3*: Menambahkan gambar, tabel, dan form sederhana
 - *Day 4*: Membuat struktur layout dasar (header, nav, main, footer)
-- *Day 5*: Day 5: Belajar dasar CSS (warna, font, tombol, layout sederhana)
+- *Day 5*: Belajar dasar CSS (warna, font, tombol, layout sederhana)
 - *Day 6*: (coming soon)
 
 ## 🎯 Tujuan
