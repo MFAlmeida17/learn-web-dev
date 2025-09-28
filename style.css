@@ -48,4 +48,59 @@ footer {
     margin-top: 40px;
     font-size: 0.9em;
     color: #777;
+
+}
+
+/*Day 6 - Flexbox Layout */
+body {
+    font-family:Arial, sans-serif;
+    background-color: #f9fafb;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #1e40af;
+    color: white;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 40px;
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.red {
+    background-color: #ef4444;
+}
+
+.green {
+    background-color: #10b981;
+}
+
+.blue {
+    background-color: #3b82f6;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #1e3a8a;
+    color: white;
 }
