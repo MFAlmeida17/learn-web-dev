@@ -16,7 +16,8 @@ Tujuan utamanya adalah menggabungkan konsep dasar **HTML** dan **CSS** (termasuk
 - **Flexbox** → untuk membuat layout yang lebih rapi dan responsif  
 
 ## 📸 Preview
-![Preview](./preview.png)
+<img width="1918" height="898" alt="image" src="https://github.com/user-attachments/assets/f9fb86af-a09a-422e-ace7-dc393934a4c3" />
+
 
 ## 📅 Progress Belajar
 - Day 1: Hello World  
@@ -34,3 +35,4 @@ Tujuan utamanya adalah menggabungkan konsep dasar **HTML** dan **CSS** (termasuk
 ---
 
 © 2025 Belajar Web Development
+
