@@ -1,7 +1,7 @@
-![Progress](https://img.shields.io/badge/Progress-7%2F30-blue)
+![Progress](https://img.shields.io/badge/Progress-8%2F30-blue)
 ![HTML](https://img.shields.io/badge/HTML-5%2F5-orange)
 ![CSS](https://img.shields.io/badge/CSS-2%2F10-blueviolet)
-![JavaScript](https://img.shields.io/badge/JavaScript-1%2F10-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-3%2F10-yellow)
 ![Status](https://img.shields.io/badge/Learning-Active-brightgreen)
 
 # Learn Web Development
@@ -16,7 +16,8 @@ Setiap step saya kerjakan secara bertahap, mulai dari HTML, CSS, JavaScript, hin
 - *Day 4*: Membuat struktur layout dasar (header, nav, main, footer)  
 - *Day 5*: Belajar dasar CSS (warna, font, tombol, layout sederhana)  
 - *Day 6*: Belajar CSS Layout & Flexbox  
-- *Day 7*: Pengenalan JavaScript (manipulasi DOM, event handling, mini project tombol ubah judul, latihan lanjut dengan reset judul, ubah background, dan efek lampu kedip)  
+- *Day 7*: Pengenalan JavaScript (manipulasi DOM, event handling, mini project tombol ubah judul, latihan lanjut dengan reset judul, ubah background, dan efek lampu kedip)
+- *Day 8*: JavaScript — Variables & Data Types; Mini project: kalkulator sederhana (penjumlahan, pengurangan, perkalian, pembagian) + Kalkulator gaya modern (HP-style)  
 
 ## 🎯 Tujuan
 - Membiasakan diri ngoding setiap hari  
