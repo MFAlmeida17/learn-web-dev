@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 7 Extra- JavaScript Dasar</title>
+    <style>
+        body {
+            font-family: arial, sans-serif;
+            text-align: center;
+            margin-top: 100px;
+            background-color: #f4f4f9;
+            transition: background-color 0.5s ease;
+        }
+        h1 {
+            color: #333;
+            transition: all 0.3s ease;
+        }
+        button {
+            padding: 10px 20px;
+            background-color: #0078ff;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            margin-top: 20px;
+            font-size: 16px;
+            transition: 0.3s;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="judul">Halo, Selamat Datang!</h1>
+    <button onclick="ubahBackground()">Ubah Background</button>
+    <button onclick="resetBackground()">Reset Background</button>
+    <button onclick="lampuKedip()">Lampu Kedip</button>
+    <button onclick="BerhentiKedip()">Berhenti Kedip</button>
+
+    <script>
+        function ubahBackground() {
+            const warna = ["#ff7675", "#55efc4", "#ffeaa7", "#74b9ff", "#fab1a0"];
+            const acak = warna[Math.floor(Math.random() * warna.length)];
+            document.body.style.backgroundColor = acak;
+        }
+
+        function resetBackground() {
+            document.body.style.backgroundColor = "#f4f4f9";            
+        }
+
+        let intervalKedip;
+        function lampuKedip() {
+            if (!intervalKedip) {
+                intervalKedip = setInterval(() => {
+                    const warna = ["#2ecc71", "#e74c3c"];
+                    const acak = warna[Math.floor(Math.random() * warna.length)];
+                    document.body.style.backgroundColor = acak;
+                }, 500);
+            }
+        }
+
+        function BerhentiKedip() {
+            clearInterval(intervalKedip);
+            intervalKedip = null;
+            resetBackground();
+        }
+    </script>
+</body>
+</html>

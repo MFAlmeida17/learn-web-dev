@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 7 Advanced- JavaScript Dasar</title>
+    <style>
+        body {
+            font-family: arial, sans-serif;
+            text-align: center;
+            margin-top: 100px;
+            background-color: #f4f4f9;
+        }
+        h1 {
+            color: #333;
+            transition: all 0.5s ease;
+        }
+        button {
+            padding: 10px 20px;
+            background-color: #0078ff;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            margin-top: 20px;
+            font-size: 16px;
+            transition: 0.3s;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="judul">Halo, Selamat Datang!</h1>
+    <button onclick="gantiJudul()">Ubah Judul</button>
+    <button onclick="resetJudul()">Kembalikan Judul</button>
+
+    <script>
+        function gantiJudul() {
+            const judul = document.getElementById("judul");
+            judul.innerHTML = "Judul Berhasil Diubah!";
+            judul.style.color = "tomato";
+            judul.style.fontSize = "40px";
+        }
+
+        function resetJudul() {
+            const judul = document.getElementById("judul");
+            judul.innerHTML = "Halo, Selamat Datang!";
+            judul.style.color = "#333";
+            judul.style.fontSize = "32px";
+        }
+    </script>
+</body>
+</html>
