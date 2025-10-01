@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 8 Advanced - Kalkulator</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+            margin-top: 80px;
+            background: #f9f9f9;
+        }
+        h1 {
+            margin-bottom: 20px;
+        }
+        input {
+            margin: 8px;
+            padding: 5px;
+            font-size: 16;
+            width: 100px;
+            text-align: center;
+        }
+        .btn-group {
+            margin-top: 15px;
+        }
+        button {
+            padding: 10px 20px;
+            margin-top: 10px;
+            font-size: 16px;
+            background: #0078ff;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+        button:hover {
+            background: #0056b3;
+        }
+        p {
+            font-size: 18px;
+            font-weight: bold;
+            margin-top: 20px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>Kalkulator Sederhana</h1>
+    <input type="number" id="angka1" placeholder="Angka 1">
+    <input type="number" id="angka2" placeholder="Angka 2"><br>
+    
+    <div class="btn-group">
+        <button onclick="hitung('tambah')">➕ Tambah</button>
+        <button onclick="hitung('kurang')">➖ Kurang</button>
+        <button onclick="hitung('kali')">✖️ Kali</button>
+        <button onclick="hitung('bagi')">➗ Bagi</button>
+    </div>
+
+    <p id="hasil">Hasil: -</p>
+
+    <script>
+        function hitung(operasi) {
+            let a = parseFloat(document.getElementById("angka1").value);
+            let b = parseFloat(document.getElementById("angka2").value);
+            let hasil;
+
+            if (isNaN(a) || isNaN(b)) {
+                hasil = "Masukkan Angka Dulu!";
+            }else {
+                switch (operasi) {
+                    case 'tambah':
+                        hasil = a + b;
+                        break;
+                    case 'kurang':
+                        hasil = a - b;
+                        break;
+                    case 'kali':
+                        hasil = a * b;
+                        break;
+                    case 'bagi':
+                        hasil = b !== 0? (a / b).toFixed(2) : "Tidak bisa dibagi 0!";
+                        break;
+                }
+            }
+
+            document.getElementById("hasil").innerText = "Hasil: " + hasil;
+        }
+    </script>
+</body>
+</html>
