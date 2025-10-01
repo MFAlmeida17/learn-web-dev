@@ -4,11 +4,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-3%2F10-yellow)
 ![Status](https://img.shields.io/badge/Learning-Active-brightgreen)
 
-# Learn Web Development
-
-Repository ini berisi progress belajar saya dari dasar hingga advance dalam membuat website.  
-Setiap step saya kerjakan secara bertahap, mulai dari HTML, CSS, JavaScript, hingga full-stack.
-
 ## 📅 Progress Harian
 - *Day 1*: Membuat halaman HTML pertama (Hello World)  
 - *Day 2*: Membuat halaman About Me dengan list (ordered & unordered)  
@@ -20,6 +15,4 @@ Setiap step saya kerjakan secara bertahap, mulai dari HTML, CSS, JavaScript, hin
 - *Day 8*: JavaScript — Variables & Data Types; Mini project: kalkulator sederhana (penjumlahan, pengurangan, perkalian, pembagian) + Kalkulator gaya modern (HP-style)  
 
 ## 🎯 Tujuan
-- Membiasakan diri ngoding setiap hari  
-- Membangun portfolio belajar di GitHub  
-- Mencapai level full-stack developer step by step
+- mengingat kembali
