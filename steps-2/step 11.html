@@ -1,23 +1,24 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kalkulator Modular</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+  <title>Kalkulator Modular</title>
 </head>
 <body>
-    <h1>🧮 Kalkulator Modular</h1>
-    <input type="number" id="angka1" placeholder="Angka 1">
-    <input type="number" id="angka2" placeholder="Angka 2">
-    <br><br>
-    <button onclick="hitung('tambah')">+</button>
-    <button onclick="hitung('kurang')">-</button>
-    <button onclick="hitung('kali')">*</button>
-    <button onclick="hitung('bagi')">/</button>
-    <p id="hasil"></p>
+  <h1>🧮 Kalkulator Modular</h1>
+  <input type="number" id="angka1" placeholder="Angka 1">
+  <input type="number" id="angka2" placeholder="Angka 2"><br><br>
 
-    <button class="clear" onclick="clearDisplay()">C</button>
+  <button onclick="hitung('tambah')">+</button>
+  <button onclick="hitung('kurang')">-</button>
+  <button onclick="hitung('kali')">*</button>
+  <button onclick="hitung('bagi')">/</button>
 
-    <script src="kalkulator.js"></script>
+  <button onclick="clearDisplay()">C</button>
+
+  <p id="hasil"></p>
+
+  <script src="kalkulator.js"></script>
 </body>
 </html>
