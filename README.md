@@ -1,15 +1,8 @@
-![Progress](https://img.shields.io/badge/Progress-9%2F30-blue)
+![Progress](https://img.shields.io/badge/Progress-10%2F30-blue)
 ![HTML](https://img.shields.io/badge/HTML-5%2F5-orange)
 ![CSS](https://img.shields.io/badge/CSS-3%2F10-blueviolet)
 ![JavaScript](https://img.shields.io/badge/JavaScript-4%2F10-yellow)
 ![Status](https://img.shields.io/badge/Learning-Active-brightgreen)
-
-# Learn Web Development
-
-Repository ini berisi progress belajar saya dari dasar hingga advance dalam membuat website.  
-Setiap step saya kerjakan secara bertahap, mulai dari HTML, CSS, JavaScript, hingga full-stack.
-
----
 
 ## 📅 Progress Harian
 - *Day 1*: Membuat halaman HTML pertama (Hello World)  
@@ -20,20 +13,12 @@ Setiap step saya kerjakan secara bertahap, mulai dari HTML, CSS, JavaScript, hin
 - *Day 6*: Belajar CSS Layout & Flexbox  
 - *Day 7*: Pengenalan JavaScript (manipulasi DOM, event handling, mini project tombol ubah judul, latihan lanjut dengan reset judul, ubah background, dan efek lampu kedip)  
 - *Day 8*: JavaScript — Variables & Data Types; Mini project: kalkulator sederhana (penjumlahan, pengurangan, perkalian, pembagian) + Kalkulator gaya modern (HP-style)  
-- *Day 9*: JavaScript Conditional (if–else, switch) + Mini Game “Tebak Angka”  
-- *Day 10*: JavaScript Loop (for, while) + Challenge membuat deret angka & pola bintang  
-- *Day 11*: JavaScript Function Return Value & Scope  
-  - Belajar fungsi dengan *return* dan perbedaan *local vs global scope*  
-  - Mini Project: **Konversi Suhu (°C ⇄ °F)**  
-  - Tambahan fitur:
-    - Konversi dua arah (Celcius ↔ Fahrenheit)  
-    - Auto-clear input lain saat mengetik  
-    - Tombol **Reset**  
-    - Tampilan modern dengan warna lembut  
-
----
+- *Day 9*: JavaScript Conditional (if-else & switch); Mini project: Game Tebak Angka 🎮  
+- *Day 10*: JavaScript Loop (for, while, do while); Latihan dan challenge nested loop untuk membuat pola *bintang*  
+- *Day 11*: JavaScript Function Return & Scope; Mini project: **Aplikasi Konversi Suhu (Celcius ↔ Fahrenheit)** lengkap dengan tombol **Reset** dan auto-clear input lain saat mengetik, serta styling sederhana agar tampil lebih profesional 🌡️  
 
 ## 🎯 Tujuan
-- Membiasakan diri ngoding setiap hari  
-- Membangun portofolio belajar di GitHub  
-- Meningkatkan pemahaman logika JavaScript sebelum lanjut ke topik *Array* dan *Object*
+- Memahami cara kerja *function return* dan *variable scope*  
+- Membuat fungsi yang dapat mengembalikan nilai untuk digunakan ulang  
+- Mengimplementasikan konsep JavaScript ke dalam mini aplikasi sederhana berbasis interaksi langsung di browser  
+- Melatih kebiasaan menulis kode bersih dan efisien
