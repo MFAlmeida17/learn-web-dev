@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-10%2F30-blue)
+![Progress](https://img.shields.io/badge/Progress-11%2F30-blue)
 ![HTML](https://img.shields.io/badge/HTML-5%2F5-orange)
 ![CSS](https://img.shields.io/badge/CSS-3%2F10-blueviolet)
 ![JavaScript](https://img.shields.io/badge/JavaScript-4%2F10-yellow)
