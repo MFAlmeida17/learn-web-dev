@@ -1,7 +1,7 @@
-![Progress](https://img.shields.io/badge/Progress-11%2F30-blue)
+![Progress](https://img.shields.io/badge/Progress-12%2F30-blue)
 ![HTML](https://img.shields.io/badge/HTML-5%2F5-orange)
 ![CSS](https://img.shields.io/badge/CSS-3%2F10-blueviolet)
-![JavaScript](https://img.shields.io/badge/JavaScript-4%2F10-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-5%2F10-yellow)
 ![Status](https://img.shields.io/badge/Learning-Active-brightgreen)
 
 # Learn Web Development
@@ -21,6 +21,15 @@ Setiap step saya kerjakan secara bertahap, mulai dari HTML, CSS, JavaScript, hin
 - *Day 9*: JavaScript Conditional (if-else & switch); Mini project: Game Tebak Angka 🎮  
 - *Day 10*: JavaScript Loop (for, while, do while); Latihan dan challenge nested loop untuk membuat pola *bintang*  
 - *Day 11*: JavaScript Function Return & Scope; Mini project: **Aplikasi Konversi Suhu (Celcius ↔ Fahrenheit)** lengkap dengan tombol **Reset** dan auto-clear input lain saat mengetik, serta styling sederhana agar tampil lebih profesional 🌡️  
+- *Day 12*: **JavaScript Array** — Latihan manipulasi data menggunakan `push()`, `pop()`, `shift()`, `unshift()`, dan `forEach()`.  
+  Challenge:  
+  1. Menampilkan nama ke-3 dari array teman  
+  2. Menambah & menghapus elemen array  
+  3. Menyaring angka lebih dari 20 dan menghitung total dengan `reduce()`  
+  4. Menggabungkan dua array buah lalu mengurutkannya secara alfabet  
+  5. Membuat fungsi `cariBarang(nama)` untuk mengecek ketersediaan item dengan `includes()` 🛒  
+
+---
 
 ## 🎯 Tujuan
 - Melatih konsistensi belajar pemrograman web setiap hari  
