@@ -28,13 +28,14 @@ Setiap step saya kerjakan secara bertahap, mulai dari HTML, CSS, JavaScript, hin
   3. Menyaring angka lebih dari 20 dan menghitung total dengan `reduce()`  
   4. Menggabungkan dua array buah lalu mengurutkannya secara alfabet  
   5. Membuat fungsi `cariBarang(nama)` untuk mengecek ketersediaan item dengan `includes()` 🛒  
-- *Day 13*: **JavaScript Object** - Belajar apa itu Object, Bagaimana cara membuat dan mengakses property, Cara menambah, mengubah, dan menghapus property, Menggunakan method (fungsi di dalam object), Looping dengan for...in, dan dilanjutkan dengan Challenge akhir yang menggabungkan semuanya.
-  Challenge:
-  1. Buat object
-  2. Tambahkan method
-  3. Ubah nilai isAvailable menjadi false
-  4. Buat array berisi 3 object berbeda, lalu looping untuk menampilkan semua dengan for...of
-  5. Buat function menggunakan find()
+- *Day 13*: **JavaScript Object** — Pengenalan struktur data `object`, manipulasi property, penggunaan method (`this`), looping dengan `for...in`, dan integrasi array of objects.  
+  Challenge:  
+  1. Membuat object `buku` dengan properti (`judul`, `penulis`, `tahun`, `isAvailable`)  
+  2. Menambahkan method `info()` untuk menampilkan deskripsi buku  
+  3. Mengubah status `isAvailable` menjadi `false` dengan pesan *Buku sedang dipinjam*  
+  4. Membuat array berisi 3 object buku dan menampilkan semua judulnya  
+  5. Membuat fungsi `cariBuku(judul)` menggunakan `find()` untuk mencari buku di daftar 📚  
+
 ---
 
 ## 🎯 Tujuan
