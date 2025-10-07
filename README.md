@@ -1,7 +1,7 @@
-![Progress](https://img.shields.io/badge/Progress-13%2F30-blue)
+![Progress](https://img.shields.io/badge/Progress-14%2F30-blue)
 ![HTML](https://img.shields.io/badge/HTML-5%2F5-orange)
 ![CSS](https://img.shields.io/badge/CSS-3%2F10-blueviolet)
-![JavaScript](https://img.shields.io/badge/JavaScript-6%2F10-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-7%2F10-yellow)
 ![Status](https://img.shields.io/badge/Learning-Active-brightgreen)
 
 # Learn Web Development
@@ -35,6 +35,12 @@ Setiap step saya kerjakan secara bertahap, mulai dari HTML, CSS, JavaScript, hin
   3. Mengubah status `isAvailable` menjadi `false` dengan pesan *Buku sedang dipinjam*  
   4. Membuat array berisi 3 object buku dan menampilkan semua judulnya  
   5. Membuat fungsi `cariBuku(judul)` menggunakan `find()` untuk mencari buku di daftar 📚  
+- *Day 14*: **JavaScript Object Method (Lanjutan)** — Latihan membuat object interaktif dengan fungsi internal (method) dan pengelolaan data dinamis.  
+  Challenge:  
+  1. Membuat object `produk` dengan properti (`nama`, `harga`, `stok`) dan method `info()`  
+  2. Menambahkan fungsi `beliProduk(jumlah)` untuk mengurangi stok dan menampilkan pesan pembelian  
+  3. Membuat object `akun` dengan properti (`nama`, `saldo`) dan method `menabung()`, `tarik()`, serta `info()`  
+  4. Menguji seluruh method agar menampilkan hasil sesuai kondisi logis (saldo cukup / tidak cukup, stok habis, dll) 💰  
 
 ---
 
