@@ -1,7 +1,7 @@
-![Progress](https://img.shields.io/badge/Progress-14%2F30-blue)
+![Progress](https://img.shields.io/badge/Progress-15%2F30-blue)
 ![HTML](https://img.shields.io/badge/HTML-5%2F5-orange)
 ![CSS](https://img.shields.io/badge/CSS-3%2F10-blueviolet)
-![JavaScript](https://img.shields.io/badge/JavaScript-7%2F10-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-8%2F10-yellow)
 ![Status](https://img.shields.io/badge/Learning-Active-brightgreen)
 
 # Learn Web Development
@@ -41,6 +41,13 @@ Setiap step saya kerjakan secara bertahap, mulai dari HTML, CSS, JavaScript, hin
   2. Menambahkan fungsi `beliProduk(jumlah)` untuk mengurangi stok dan menampilkan pesan pembelian  
   3. Membuat object `akun` dengan properti (`nama`, `saldo`) dan method `menabung()`, `tarik()`, serta `info()`  
   4. Menguji seluruh method agar menampilkan hasil sesuai kondisi logis (saldo cukup / tidak cukup, stok habis, dll) 💰  
+- *Day 15*: 🛒 **Mini Project — Aplikasi Keranjang Belanja Dasar**  
+  Belajar memanipulasi **DOM**, membuat **daftar produk dinamis**, serta **menghitung total harga otomatis** saat pengguna menambahkan barang ke keranjang.  
+  Fitur:
+  1. Menampilkan daftar produk dengan stok & harga  
+  2. Tombol *Beli* yang mengurangi stok dan menambah item ke keranjang  
+  3. Total harga otomatis dengan format rupiah  
+  4. Tampilan sederhana berbasis *JavaScript DOM manipulation*
 
 ---
 
