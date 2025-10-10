@@ -1,7 +1,7 @@
-![Progress](https://img.shields.io/badge/Progress-15%2F30-blue)
+![Progress](https://img.shields.io/badge/Progress-16%2F30-blue)
 ![HTML](https://img.shields.io/badge/HTML-5%2F5-orange)
-![CSS](https://img.shields.io/badge/CSS-3%2F10-blueviolet)
-![JavaScript](https://img.shields.io/badge/JavaScript-8%2F10-yellow)
+![CSS](https://img.shields.io/badge/CSS-4%2F10-blueviolet)
+![JavaScript](https://img.shields.io/badge/JavaScript-9%2F10-yellow)
 ![Status](https://img.shields.io/badge/Learning-Active-brightgreen)
 
 # Learn Web Development
@@ -48,6 +48,14 @@ Setiap step saya kerjakan secara bertahap, mulai dari HTML, CSS, JavaScript, hin
   2. Tombol *Beli* yang mengurangi stok dan menambah item ke keranjang  
   3. Total harga otomatis dengan format rupiah  
   4. Tampilan sederhana berbasis *JavaScript DOM manipulation*
+- *Day 16*: 🧾 **Form Validation — Registrasi User dengan Validasi Real-time**  
+  Belajar membuat form registrasi dengan validasi dinamis menggunakan **JavaScript DOM** dan **Regular Expression**.  
+  Fitur:
+  1. Validasi nama tidak boleh kosong  
+  2. Validasi format email menggunakan regex  
+  3. Validasi panjang minimal password (6 karakter)  
+  4. Pesan error spesifik di bawah input  
+  5. Pesan sukses jika semua data valid  
 
 ---
 
