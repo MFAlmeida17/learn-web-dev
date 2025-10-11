@@ -1,7 +1,7 @@
-![Progress](https://img.shields.io/badge/Progress-16%2F30-blue)
+![Progress](https://img.shields.io/badge/Progress-17%2F30-blue)
 ![HTML](https://img.shields.io/badge/HTML-5%2F5-orange)
-![CSS](https://img.shields.io/badge/CSS-4%2F10-blueviolet)
-![JavaScript](https://img.shields.io/badge/JavaScript-9%2F10-yellow)
+![CSS](https://img.shields.io/badge/CSS-5%2F10-blueviolet)
+![JavaScript](https://img.shields.io/badge/JavaScript-10%2F10-yellow)
 ![Status](https://img.shields.io/badge/Learning-Active-brightgreen)
 
 # Learn Web Development
@@ -55,7 +55,14 @@ Setiap step saya kerjakan secara bertahap, mulai dari HTML, CSS, JavaScript, hin
   2. Validasi format email menggunakan regex  
   3. Validasi panjang minimal password (6 karakter)  
   4. Pesan error spesifik di bawah input  
-  5. Pesan sukses jika semua data valid  
+  5. Pesan sukses jika semua data valid
+- *Day 17*: ✅ **DOM Manipulation Lanjutan — To-Do List Interaktif**
+  Belajar membuat aplikasi daftar tugas sederhana menggunakan createElement(), appendChild(), dan eventListener() untuk mengelola data secara dinamis.
+  Fitur:
+  1.Menambahkan tugas baru ke daftar
+  2.Menandai tugas yang sudah selesai (garis coret otomatis)
+  3.Menghapus tugas dari daftar
+  4.Desain responsif dan clean menggunakan CSS  
 
 ---
 
