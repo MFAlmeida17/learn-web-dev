@@ -1,7 +1,7 @@
-![Progress](https://img.shields.io/badge/Progress-18%2F30-blue)
+![Progress](https://img.shields.io/badge/Progress-19%2F30-blue)
 ![HTML](https://img.shields.io/badge/HTML-5%2F5-orange)
-![CSS](https://img.shields.io/badge/CSS-6%2F10-blueviolet)
-![JavaScript](https://img.shields.io/badge/JavaScript-11%2F11-yellow)
+![CSS](https://img.shields.io/badge/CSS-7%2F10-blueviolet)
+![JavaScript](https://img.shields.io/badge/JavaScript-12%2F12-yellow)
 ![Status](https://img.shields.io/badge/Learning-Active-brightgreen)
 
 # Learn Web Development
@@ -20,6 +20,8 @@ Setiap step saya kerjakan secara bertahap, mulai dari HTML, CSS, JavaScript, hin
 | **Day 16** | 🧾 Form Validation | Validasi input form dengan Regex & pesan dinamis |
 | **Day 17** | ✅ To-Do List App | CRUD sederhana menggunakan DOM dan CSS clean design |
 | **Day 18** | 🌄 Interactive Landing Page | Membangun tampilan web dengan efek animasi scroll, transition halus, dan responsive layout |
+| **Day 19** | 📝 Notes App + Dark Mode | CRUD catatan + penyimpanan localStorage + dark mode toggle |
+
 
 ---
 
