@@ -1,6 +1,6 @@
-![Progress](https://img.shields.io/badge/Progress-19%2F30-blue)
+![Progress](https://img.shields.io/badge/Progress-20%2F30-blue)
 ![HTML](https://img.shields.io/badge/HTML-5%2F5-orange)
-![CSS](https://img.shields.io/badge/CSS-7%2F10-blueviolet)
+![CSS](https://img.shields.io/badge/CSS-8%2F10-blueviolet)
 ![JavaScript](https://img.shields.io/badge/JavaScript-12%2F12-yellow)
 ![Status](https://img.shields.io/badge/Learning-Active-brightgreen)
 
@@ -19,9 +19,9 @@ Setiap step saya kerjakan secara bertahap, mulai dari HTML, CSS, JavaScript, hin
 | **Day 15** | 🛒 Mini Project | Aplikasi Keranjang Belanja (DOM Manipulation) |
 | **Day 16** | 🧾 Form Validation | Validasi input form dengan Regex & pesan dinamis |
 | **Day 17** | ✅ To-Do List App | CRUD sederhana menggunakan DOM dan CSS clean design |
-| **Day 18** | 🌄 Interactive Landing Page | Membangun tampilan web dengan efek animasi scroll, transition halus, dan responsive layout |
+| **Day 18** | 🌄 Interactive Landing Page | Efek animasi scroll, transition halus, dan responsive layout |
 | **Day 19** | 📝 Notes App + Dark Mode | CRUD catatan + penyimpanan localStorage + dark mode toggle |
-
+| **Day 20** | 🧱 Responsive Portfolio | Layout modern dengan CSS Grid + Flexbox + Media Query |
 
 ---
 
@@ -30,4 +30,5 @@ Setiap step saya kerjakan secara bertahap, mulai dari HTML, CSS, JavaScript, hin
 - Membangun pondasi kuat dalam logika dan struktur kode JavaScript  
 - Mampu membuat mini aplikasi interaktif berbasis DOM  
 - Menerapkan clean code dan pembagian fungsi yang efisien  
+- Membangun halaman web responsif dan modern menggunakan CSS Grid dan Flexbox  
 - Menyiapkan langkah menuju pengembangan aplikasi full-stack
