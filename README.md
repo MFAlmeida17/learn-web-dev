@@ -4,10 +4,26 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-12%2F12-yellow)
 ![Status](https://img.shields.io/badge/Learning-Active-brightgreen)
 
-# Learn Web Development
+# 🌐 Learn Web Development
 
 Repository ini berisi progress belajar saya dari dasar hingga advance dalam membuat website.  
 Setiap step saya kerjakan secara bertahap, mulai dari HTML, CSS, JavaScript, hingga full-stack.
+
+---
+
+## 🗺️ Learning Roadmap Progress
+
+| Level | Topics | Status |
+|-------|---------|--------|
+| 🧩 **HTML Fundamentals** | Struktur halaman, form, tabel, semantic element | ✅ Completed |
+| 🎨 **CSS Styling & Layout** | Warna, font, Flexbox, Grid, Responsive Design | 🟦 80% |
+| ⚙️ **JavaScript Core** | Variabel, fungsi, array, object, DOM, localStorage | ✅ Completed |
+| 💻 **Mini Projects** | To-Do List, Notes App, Responsive Portfolio | 🟩 In Progress |
+| 🧠 **Advanced Concepts** | Animation, API Fetch, Async JS, Fullstack Intro | 🔜 Coming Soon |
+
+---
+
+## 📘 Daily Progress
 
 | Hari | Topik | Fokus Belajar |
 |------|--------|----------------|
@@ -32,3 +48,27 @@ Setiap step saya kerjakan secara bertahap, mulai dari HTML, CSS, JavaScript, hin
 - Menerapkan clean code dan pembagian fungsi yang efisien  
 - Membangun halaman web responsif dan modern menggunakan CSS Grid dan Flexbox  
 - Menyiapkan langkah menuju pengembangan aplikasi full-stack
+
+---
+
+## 🖥️ Preview Project Showcase
+> ✨ Coming soon: demo links & screenshots untuk setiap mini project.
+
+---
+
+## 📅 Progress Tracker
+| Skill | Target | Progress |
+|--------|---------|-----------|
+| HTML | 100% | ![HTML](https://progress-bar.dev/100/?title=HTML&width=200&color=orange) |
+| CSS | 80% | ![CSS](https://progress-bar.dev/80/?title=CSS&width=200&color=blueviolet) |
+| JavaScript | 100% | ![JavaScript](https://progress-bar.dev/100/?title=JavaScript&width=200&color=yellow) |
+| Overall | 67% | ![Overall](https://progress-bar.dev/67/?title=Overall%20Progress&width=200&color=blue) |
+
+---
+
+### 🪄 Author
+**M.F. Almeida**  
+🚀 Backend Developer & Web Learner  
+💬 “Build small every day — growth comes from momentum.”
+
+---
